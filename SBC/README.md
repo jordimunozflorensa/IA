@@ -66,7 +66,7 @@ Yiqi Zheng - [@yiqizhengshan](https://github.com/yiqizhengshan)
 
 <br>
 
-Link del proyecto: [https://github.com/yiqizhengshan/IA-SBC-libros](https://github.com/yiqizhengshan/IA-SBC-libros)
+Link del proyecto: [https://github.com/jordimunozflorensa/IA/tree/main/SBC](https://github.com/jordimunozflorensa/IA/tree/main/SBC)
 
 ## License
 
