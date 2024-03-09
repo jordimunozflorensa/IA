@@ -56,7 +56,7 @@ Yiqi Zheng - [@yiqizhengshan](https://github.com/yiqizhengshan)
 
 <br>
 
-Link del proyecto: [https://github.com/yiqizhengshan/Bicing-IA](https://github.com/yiqizhengshan/Bicing-IA)
+Link del proyecto: [https://github.com/jordimunozflorensa/IA/tree/main/Local-Search](https://github.com/jordimunozflorensa/IA/tree/main/Local-Search)
 
 ## License
 
