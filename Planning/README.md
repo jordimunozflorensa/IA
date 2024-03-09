@@ -56,7 +56,7 @@ Yiqi Zheng - [@yiqizhengshan](https://github.com/yiqizhengshan)
 
 <br>
 
-Link del proyecto: [https://github.com/yiqizhengshan/Libros-pddl](https://github.com/yiqizhengshan/Libros-pddl)
+Link del proyecto: [https://github.com/jordimunozflorensa/IA/tree/main/Planning](https://github.com/jordimunozflorensa/IA/tree/main/Planning)
 
 ## License
 
